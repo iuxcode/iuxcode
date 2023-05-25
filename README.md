@@ -1,4 +1,4 @@
-# Hi there, I'm **Charlot TABADE** 👋.
+# Hi there, I'm **Charlot TABADE** 👋
 
 - 🔭 Currently working on: [Flukit](https://github.com/charles9904/flukit).A UI widgets and helping tools for Flutter.
 
