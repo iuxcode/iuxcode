@@ -1,7 +1,7 @@
 # Hi there, I'm **Charlot TABADE** 👋
 
-- 🔭 Currently working on: [Flukit](https://github.com/charles9904/flukit).A UI widgets and helping tools for Flutter.
+- :telescope: Currently working on: [Flukit](https://github.com/charles9904/flukit).A versatile and easy-to-use Flutter mini framework.
 
-- 👯 Open to collaboration: I am particularly interested in collaborating on projects related to **AI**, **UX/UI design**, **coding frameworks**, or **building apps**.   Whether it's developing innovative AI solutions, creating intuitive and visually appealing user experiences, exploring new coding frameworks, or building functional and user-friendly applications, I'm excited to work with like-minded individuals and teams. If you have an exciting project in any of these areas and are looking for a collaborative partner, feel free to reach out to me. Let's combine our skills and expertise to create something remarkable together!
+- :dancers: Open to collaboration: I love collaborating on AI, UX/UI design, coding frameworks, or app development projects. Whether it's creating innovative AI solutions, building intuitive interfaces, exploring new frameworks, or creating user-friendly apps, I'm excited to work with like-minded individuals and teams. If you have an interesting project in any of these areas, let's collaborate and create something amazing together!
 
-- 📫 Reach me at: charlottabade.pro@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/charlot-tabade/).
+- :mailbox: Reach me at: charlottabade.pro@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/charlot-tabade/).
